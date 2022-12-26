@@ -1,0 +1,26 @@
+body {
+  font-family: "serif","メイリオ";
+  }
+  
+  .header-title{
+  font-family: "游ゴシック体";
+  color:red;   
+  border-bottom: 10px blue dotted;
+  width:775px
+  }
+  
+  .sub-title{
+  color: gray;
+  }
+  
+  .e-mail{
+  color:lime;
+  }
+  
+  .inquiry-summarize{
+    padding: 0.5em 1em;
+      margin: 2em 0;
+      font-weight: bold;
+      border: solid 3px seagreen;
+      width:375px;
+  }
